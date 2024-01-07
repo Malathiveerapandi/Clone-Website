@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(orr.jpg)no-repeat center fixed;  
+     background-size:cover; 
+     opacity: 0.8;
+}
+
+h1{
+text-align: center;
+color: white;
+background: rgba(0,0,0,0.5);
+padding:15px ;
+}
+.Registration{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    color:black;
+    background: rgba(99, 97, 97, 0.5);
+    border: 2px solid rgb(255, 255, 255);
+    border: 15px;
+}
+h2{
+    padding:5px;
+
+}
+#name{
+    width:32%;
+    padding: 5px;
+    border-radius: 5px;
+    border:2px solid white;
+    outline: 0;
+    font-family:serif;
+    font-size: 18px;
+    background: none;
+    
+}
+
+#mnum{
+    width:32%;
+    padding: 5px;
+    border-radius: 5px;
+    border:2px solid white;
+    outline: 0;
+    font-family:serif;
+    font-size: 18px;
+    background: none;
+    
+}
+#num{
+    padding: 7px 0px;
+    border-radius: 5px;
+    border:2px solid white;
+    background: none;
+    color:black;
+}
+
+#Course{
+    padding: 7px 0px;
+    border-radius: 5px;
+    border:2px solid white;
+    background: none;
+    color:black;}
+ #file{
+        padding: 7px 0px;
+        border-radius: 5px;
+        border:2px solid white;
+        background: none;
+        color:black;}
+
+
+#check{
+    font-family: serif;
+    font-size: 18px;
+
+
+}
+#sub{
+    width:150px;
+    padding: 5px;
+    font-family: serif;
+    font-size:18px;
+    border:2px solid white;
+    outline:0;
+    border-radius:5px;
+    background:none;
+    color: white;
+
+
+}
+
+
+#sub:hover{
+    background-color:lightsalmon;
+    transform: scale(1.2);
+}
